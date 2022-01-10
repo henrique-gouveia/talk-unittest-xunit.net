@@ -1,3 +1,3 @@
 # C# UnitTest com xUnit.net
 
-Projeto com exemplificações de testes unitários com o framework xUnit.net criado durante a realização de talks.
+Projeto .NET criado durante a realização de talks para exemplificar uso de testes unitários com o framework xUnit.net.
